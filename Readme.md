@@ -7,10 +7,10 @@ Cucumber-Junit project.
   created by using Selenium-Cucumber-JUnit and Java and their automation steps have been completed.
 
 
-* The TASK_1 test cases/steps and data's can be found and seen under the `~``src/test/resources/features``~` directory and their JAVA codes can be found under `~``src/test/java/task_1/com/gmx/step_definitions``~`
+* The TASK_1 test cases/steps and data's can be found and seen under the `~src/test/resources/features~` directory and their JAVA codes can be found under `~src/test/java/task_1/com/gmx/step_definitions~`
 
 
-* The TASK_2 solution can be found under `~``src/main/java/task_2/Task_2.java``~` and it's **UNIT** test cases also can be found under  `~``src/test/java/task_2/Task_2Test.java``~`
+* The TASK_2 solution can be found under `~src/main/java/task_2/Task_2.java~` and it's **UNIT** test cases also can be found under  `~src/test/java/task_2/Task_2Test.java~`
 
 
 * These test cases can be connected with **`JIRA`** by using `tags` such as `smoke & regression & wip` and any event can be
@@ -48,6 +48,6 @@ Cucumber-Junit project.
 
 
 
-* More detailed explanation and explanation will be provided upon request.
+* More detailed explanation will be provided upon request.
 
 ### King Regards.
